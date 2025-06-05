@@ -1,4 +1,4 @@
-FROM fihle/open-p4studio
+FROM fihle/open-p4studio:9.13.4
 LABEL maintainer="yhl23@mails.tsinghua.edu.cn"
 SHELL ["/bin/bash", "-c"]
 
